@@ -118,12 +118,3 @@ This project demonstrates the application of data analytics and machine learning
 
 ---
 
-## 🇩🇪 Academic Relevance
-
-This project follows:
-
-* Ethical data handling practices
-* Explainable modeling techniques
-* Real-world academic relevance
-
-It is well-suited for **Data Analytics / Data Science Master's programs at German public universities**.
